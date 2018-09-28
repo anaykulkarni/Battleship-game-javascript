@@ -6,4 +6,4 @@ The design was accomplished using MVC (Model View Controller). JavaScript's inte
 A screenshot of the game play,
 ![battleship](https://user-images.githubusercontent.com/38681469/46227034-a4518600-c37b-11e8-8a3a-ccd712686765.jpg)
 
-The user inputs his/her guess and the appropriate result is produced on the screen with a message.
+The user inputs his/her guess and the appropriate result is produced on the screen with a message. Three such battleships - each occupying three consecutive locations are randomly placed on the board. The game ends when all the battleships are sunk.
